@@ -12,6 +12,13 @@
   right: 10px;
   position: absolute;
 }
+
+.login-form-bg {
+
+  border: 15px;
+  border-radius: 15px;
+}
+
 .btn-file {
   position: relative;
   overflow: hidden;
@@ -34,3 +41,4 @@
   min-height: 150px;
   max-height: 150px;
 }
+
